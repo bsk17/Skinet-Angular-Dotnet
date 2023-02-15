@@ -2,3 +2,6 @@ obj
 bin
 appsettings.json
 *.db
+API/skinet.db-wal
+API/skinet.db-shm
+.vs/skinet/v17/.suo
